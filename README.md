@@ -11,7 +11,7 @@ High accuracy was achieved through clustering.
   2) K-Means Clustering
   3) K-Medoids Clustering
 
-<strong><strong>Classification techniques used:</strong>
+<strong>Classification techniques used:</strong>
   1) Bagging ( Decision Tree Ensembles )
   2) Multiple Regression
 
