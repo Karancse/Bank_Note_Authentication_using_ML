@@ -21,7 +21,7 @@ High accuracy was achieved through clustering.
   
 <strong>Visualization techniques used:</strong>
   1) 3D visualization
-  2) scat<strong>ter plot
+  2) scatter plot
   3) histogram
   4) box plot
   5) pair plot
