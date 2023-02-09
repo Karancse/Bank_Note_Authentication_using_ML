@@ -2,7 +2,7 @@
 
 Finds whether the given bank note is authenticate or not.
 
-Various data science and machine learning concepts are used.
+Uses properties of wavelet transformed images and entropies of images.
 
 High accuracy was achieved through clustering.
 
