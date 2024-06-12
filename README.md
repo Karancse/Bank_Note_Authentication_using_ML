@@ -4,7 +4,7 @@ Finds whether the given bank note is authenticate or not.
 
 Uses properties of wavelet transformed images and entropies of images.
 
-High accuracy has been achieved through clustering.
+Achieved more than 97% accuracy.
 
 <strong>Clustering techniques used:</strong>
   1) Hierarchical Clustering
